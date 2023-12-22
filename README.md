@@ -38,17 +38,42 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: R.Monish
+RegisterNumber:23008248
 */
 Logic symbol & Truthtable
 RTL realization
 
+half wave code:
+![Exp3 ha code](https://github.com/monishr288/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474049/53f9ea0a-f286-4531-af55-dbf3384cf8eb)
+
+full wave code:
+![Exp3 fa code](https://github.com/monishr288/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474049/9fb37525-6453-4382-8847-ca13a9f8d55d)
+
 ### Output:
 ### RTL
+half adder:
+![Exp3 ha RTL diagram](https://github.com/monishr288/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474049/5f1fc687-f39c-43dc-9c7c-ce850588167b)
+
+full adder:
+![Exp3 fa RTL diagram](https://github.com/monishr288/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474049/a27b0790-2e07-42c9-8d65-99a03a5e1761)
+
 ### TIMING DIAGRAM
+half wave:
+![exp3 ha wave](https://github.com/monishr288/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474049/e269623f-aee4-465e-8bc3-deda73663c95)
+
+full wave:
+![exp 3 fa wave](https://github.com/monishr288/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474049/98d2872e-aad0-45d6-98ff-de639d562b99)
+
 
 
 ### TRUTH TABLE 
+half adder:
+![Exp3 truthtable (ha)](https://github.com/monishr288/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474049/be1eb224-31f5-47b4-8f62-d7b560ad0d8d)
 
-### Result:
+full adder:
+![Exp3 truthtable (fa)](https://github.com/monishr288/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474049/cedc795f-5973-435f-8aba-6cd6b68f37d9)
+
+
+### Result:Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog
+programming
